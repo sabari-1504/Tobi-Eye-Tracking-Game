@@ -25,14 +25,14 @@ Your **score** equals the **number of trees saved**.
    - This script streams your gaze data to the game.
 
 3. **Launch the Game**
-   - Run the provided **EXE build** (`ForestFire.exe`).
+   - Run the provided **EXE build** (`SDG 15.exe`).
 
 4. **Control the Cloud**
    - Simply look where you want the **rain cloud** to move.
    - The cloud follows your gaze in real time and rains to put out fires.
 
 5. **Scoring**
-   - Each tree saved earns you **1 point**.
+   - Each tree saved .
    - Save as many trees as possible before the timer runs out!
 
 ---
@@ -49,4 +49,4 @@ Your **score** equals the **number of trees saved**.
 ## 🔧 Developer Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/forest-fire-tobii.git
+   git clone https://github.com/sabari-1504/Tobi-Eye-Tracking-Game.git
